@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Edit Task - SHRUG!</title>
+  <link rel="stylesheet" href="style.css" />
+  <script type="module" src="script.js"></script>
+  <script type="module" src="edit-task.js" defer></script>
+  <script type="module" src="logout.js"></script>
+
+</head>
+<body>
+  <!-- Sidebar -->
+  <div id="sidebar" class="sidebar" role="navigation" aria-hidden="true">
+    <button class="close-btn" onclick="toggleSidebar()">✕</button>
+    <a href="homepage.html" class="menu-link">HOMEPAGE</a>
+    <a href="all-tasks.html" class="menu-link">MY TASKS</a>
+    <a href="add-task.html" class="menu-link">ADD TASKS</a>
+    <a href="affirmations.html" class="menu-link">AFFIRMATIONS HUB</a>
+    <a href="#" id="logoutBtn" class="menu-link">LOG OUT</a>
+
+  </div>
+
+  <!-- Header -->
+  <header>
+    <div class="header-left">
+      <button class="menu-btn" onclick="toggleSidebar()">☰</button>
+      <h1 class="logo">SHRUG!</h1>
+    </div>
+  </header>
+
+  <h2 class="greeting">EDIT TASK</h2>
+
+  <section class="task-preview">
+    <div class="task-card">
+      <form id="edit-task-form">
+        <div class="form-field">
+          <label for="task-title">Task Name (required):</label>
+          <input type="text" id="task-title" name="task-title" required />
+        </div>
+
+        <div class="form-field">
+          <label for="task-class">Class (required):</label>
+          <input type="text" id="task-class" name="task-class" required />
+        </div>
+
+        <div class="form-field">
+          <label for="task-desc">Description (optional):</label>
+          <input type="text" id="task-desc" name="task-desc" />
+        </div>
+
+        <div class="form-field">
+          <label for="task-date">Due Date (required):</label>
+          <input type="date" id="task-date" name="task-date" required />
+        </div>
+
+        <button type="submit" class="add-task-btn">Save Changes</button>
+      </form>
+    </div>
+  </section>
+</body>
+</html>

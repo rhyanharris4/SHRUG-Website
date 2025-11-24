@@ -1,0 +1,91 @@
+[
+  {"Mood":"Anxious","Affirmation":"My feelings are valid, but they don’t define me."},
+  {"Mood":"Anxious","Affirmation":"I’ve survived tough moments before; I can do it again."},
+  {"Mood":"Anxious","Affirmation":"I’m allowed to rest and recharge when things get heavy."},
+  {"Mood":"Anxious","Affirmation":"I choose to respond with calm rather than react with stress."},
+  {"Mood":"Anxious","Affirmation":"I am safe in this moment, even if my mind feels unsure."},
+
+  {"Mood":"Calm","Affirmation":"I can move at my own pace without pressure."},
+  {"Mood":"Calm","Affirmation":"I am centered, balanced, and aware."},
+  {"Mood":"Calm","Affirmation":"I’m learning to be comfortable in stillness."},
+  {"Mood":"Calm","Affirmation":"I center myself in the present moment."},
+  {"Mood":"Calm","Affirmation":"Peace begins within me, not around me."},
+
+  {"Mood":"Confident","Affirmation":"I am confident in who I am and what I'm becoming."},
+  {"Mood":"Confident","Affirmation":"I create opportunities by believing in myself."},
+  {"Mood":"Confident","Affirmation":"I trust my ability to make good choices."},
+  {"Mood":"Confident","Affirmation":"I am becoming stronger and more capable every day."},
+  {"Mood":"Confident","Affirmation":"I have the power to shape my future with confidence."},
+
+  {"Mood":"Content","Affirmation":"I’m present in this moment, and that’s enough."},
+  {"Mood":"Content","Affirmation":"What I have right now is enough for this moment."},
+  {"Mood":"Content","Affirmation":"I don’t need anything more than this breath."},
+  {"Mood":"Content","Affirmation":"I’m comfortable being exactly who I am today."},
+  {"Mood":"Content","Affirmation":"I feel at ease with where I am in life."},
+
+  {"Mood":"Grateful","Affirmation":"I am grateful for how far I've come."},
+  {"Mood":"Grateful","Affirmation":"I am thankful for the lessons that have shaped me."},
+  {"Mood":"Grateful","Affirmation":"Gratitude grounds me and brings me peace."},
+  {"Mood":"Grateful","Affirmation":"I am grateful for the progress I’ve made, even when it felt slow."},
+  {"Mood":"Grateful","Affirmation":"I appreciate the people who support and uplift me."},
+
+  {"Mood":"Happy","Affirmation":"My energy attracts good things."},
+  {"Mood":"Happy","Affirmation":"I am surrounded by love and support."},
+  {"Mood":"Happy","Affirmation":"Every day brings new chances to grow."},
+  {"Mood":"Happy","Affirmation":"I deserve the bright moments unfolding in my life."},
+  {"Mood":"Happy","Affirmation":"I welcome good news, good energy, and good experiences."},
+
+  {"Mood":"Heartbroken","Affirmation":"I am patient with myself while I heal."},
+  {"Mood":"Heartbroken","Affirmation":"Even in pain, I’m learning and growing."},
+  {"Mood":"Heartbroken","Affirmation":"My heart is hurting, but it will not stay broken forever."},
+  {"Mood":"Heartbroken","Affirmation":"My pain is real, but so is my resilience."},
+  {"Mood":"Heartbroken","Affirmation":"One day, love and peace will feel possible again."},
+
+  {"Mood":"Lonely","Affirmation":"I’m not alone in how I feel."},
+  {"Mood":"Lonely","Affirmation":"Even when I feel alone, I am worthy of connection."},
+  {"Mood":"Lonely","Affirmation":"Someone out there cares about me, even if it’s hard to feel right now."},
+  {"Mood":"Lonely","Affirmation":"I am not forgotten or unseen."},
+  {"Mood":"Lonely","Affirmation":"I can still be gentle with myself while I wait for connection."},
+
+  {"Mood":"Mad","Affirmation":"I will find peace again, one breath at a time."},
+  {"Mood":"Mad","Affirmation":"My anger is valid and deserves healthy acknowledgment."},
+  {"Mood":"Mad","Affirmation":"I have the inner strength to channel anger into clarity."},
+  {"Mood":"Mad","Affirmation":"I can slow down before reacting in ways I may regret."},
+  {"Mood":"Mad","Affirmation":"I can express my frustration without harming myself or others."},
+
+  {"Mood":"Peaceful","Affirmation":"I deserve the peace I'm feeling right now."},
+  {"Mood":"Peaceful","Affirmation":"I radiate calm, joy, and strength."},
+  {"Mood":"Peaceful","Affirmation":"My calm is my power."},
+  {"Mood":"Peaceful","Affirmation":"My mind, body, and spirit are settling into harmony."},
+  {"Mood":"Peaceful","Affirmation":"Stillness restores me in ways I truly need."},
+
+  {"Mood":"Proud","Affirmation":"I am proud of my progress, even the small steps."},
+  {"Mood":"Proud","Affirmation":"I’ve worked hard, and I recognize my effort."},
+  {"Mood":"Proud","Affirmation":"I am proud of how much strength it took to get here."},
+  {"Mood":"Proud","Affirmation":"I’m proud of myself for trying, even when I doubted I could."},
+  {"Mood":"Proud","Affirmation":"I applaud myself for the steps no one else saw me take."},
+
+  {"Mood":"Reflective","Affirmation":"It’s okay to just be — I don’t always need to feel something strong."},
+  {"Mood":"Reflective","Affirmation":"I trust that clarity will come with time."},
+  {"Mood":"Reflective","Affirmation":"My worth doesn’t depend on how productive or emotional I feel."},
+  {"Mood":"Reflective","Affirmation":"I release the need to control everything."},
+  {"Mood":"Reflective","Affirmation":"I’m open to whatever the day brings."},
+
+  {"Mood":"Relaxed","Affirmation":"My body is loosening, my mind is softening, and I am unwinding."},
+  {"Mood":"Relaxed","Affirmation":"I release all expectations and let myself simply exist."},
+  {"Mood":"Relaxed","Affirmation":"I allow my muscles, breath, and thoughts to settle."},
+  {"Mood":"Relaxed","Affirmation":"Rest is not a luxury — it’s something I deserve."},
+  {"Mood":"Relaxed","Affirmation":"I sink into this moment with ease and comfort."},
+
+  {"Mood":"Sad","Affirmation":"It’s okay to not feel okay, this will pass."},
+  {"Mood":"Sad","Affirmation":"My sadness is real, and I’m allowed to feel it."},
+  {"Mood":"Sad","Affirmation":"This moment won’t last forever, even if it feels heavy."},
+  {"Mood":"Sad","Affirmation":"I’m allowed to cry, rest, and heal at my own pace."},
+  {"Mood":"Sad","Affirmation":"I hold space for my pain with compassion."},
+
+  {"Mood":"Uninterested","Affirmation":"I can take small steps forward, even on hard days."},
+  {"Mood":"Uninterested","Affirmation":"I show up for myself, and that is something to be proud of."},
+  {"Mood":"Uninterested","Affirmation":"It’s okay to feel neutral and not overly invested today."},
+  {"Mood":"Uninterested","Affirmation":"I don’t need to force excitement — my energy is allowed to be low."},
+  {"Mood":"Uninterested","Affirmation":"Not caring deeply right now doesn’t make me a bad person."}
+]

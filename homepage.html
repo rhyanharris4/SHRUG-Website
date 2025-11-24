@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SHRUG! - Home</title>
+  <link rel="stylesheet" href="style.css" />
+  <script type="module" src="script.js"></script>
+  <script type="module" src="homepage.js" defer></script>
+  <script type="module" src="logout.js"></script>
+
+</head>
+<body>
+  <!-- Sidebar -->
+  <div id="sidebar" class="sidebar" role="navigation" aria-hidden="true">
+    <button class="close-btn" onclick="toggleSidebar()" aria-label="Close menu">✕</button>
+    <a href="homepage.html" class="menu-link">HOMEPAGE</a>
+    <a href="all-tasks.html" class="menu-link">MY TASKS</a>
+    <a href="add-task.html" class="menu-link">ADD TASKS</a>
+    <a href="affirmations.html" class="menu-link">AFFIRMATIONS HUB</a>
+    <a href="#" id="logoutBtn" class="menu-link">LOG OUT</a>
+
+    
+  </div>
+
+  <!-- Header -->
+  <header>
+    <div class="header-left">
+      <button class="menu-btn" onclick="toggleSidebar()" aria-label="Open menu">☰</button>
+      <h1 class="logo">SHRUG!</h1>
+    </div>
+    <a href="add-task.html" class="add-task-btn">＋ Add Task</a>
+  </header>
+
+  <h2 class="greeting">Loading your info...</h2>
+
+  <!-- Task preview card -->
+  <section class="task-preview">
+    <div class="task-card">
+      <ul id="task-list">
+        <!-- dynamic task insertion -->
+      </ul>
+      <a class="all-tasks-btn" href="all-tasks.html">All Tasks</a>
+    </div>
+  </section>
+  
+  <!-- Mood Popup on Login -->
+  <div id="moodPopup" class="modal">
+    <div class="modal-content">
+      <span id="closeMoodPopup" class="modal-close">✕</span>
+      <h3 style="text-align:center; margin-top:0;">How are you feeling today?</h3>
+
+      <div id="moodChoices" class="mood-choice-container"></div>
+    </div>
+  </div>
+
+  <!-- Affirmation Popup -->
+  <div id="affirmationPopup" class="modal">
+    <div class="modal-content">
+      <span id="closeAffirmationPopup" class="modal-close">✕</span>
+      <p id="affirmationText"></p>
+    </div>
+  </div>
+  
+</body>
+</html>

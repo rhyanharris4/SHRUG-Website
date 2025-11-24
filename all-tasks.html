@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>All Tasks - SHRUG!</title>
+  <link rel="stylesheet" href="style.css" />
+  <script type="module" src="script.js"></script>
+  <script type="module" src="all-tasks.js" defer></script>
+  <script type="module" src="logout.js"></script>
+
+</head>
+<body>
+  <!-- Sidebar -->
+  <div id="sidebar" class="sidebar" role="navigation" aria-hidden="true">
+    <button class="close-btn" onclick="toggleSidebar()">✕</button>
+    <a href="homepage.html" class="menu-link">HOMEPAGE</a>
+    <a href="all-tasks.html" class="menu-link">MY TASKS</a>
+    <a href="add-task.html" class="menu-link">ADD TASKS</a>
+    <a href="affirmations.html" class="menu-link">AFFIRMATIONS HUB</a>
+    <a href="#" id="logoutBtn" class="menu-link">LOG OUT</a>
+
+  </div>
+
+  <!-- Header -->
+  <header>
+    <div class="header-left">
+      <button class="menu-btn" onclick="toggleSidebar()">☰</button>
+      <h1 class="logo">SHRUG!</h1>
+    </div>
+    <a href="add-task.html" class="add-task-btn">＋ Add Task</a>
+  </header>
+
+  <h2 class="greeting">ALL TASKS</h2>
+
+  <section class="task-list">
+    <!-- Tasks loaded dynamically -->
+  </section>
+</body>
+</html>

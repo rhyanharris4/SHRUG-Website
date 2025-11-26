@@ -22,7 +22,7 @@ iv) Visit the **Homepage** to see the preview card of upcoming tasks and deliver
 v) Use **“Log Out”** in the sidebar when finished  
 vi) Log back in anytime to view previously saved tasks
 
-
+---
 ## 3. Dependencies or Libraries Used
 
 ### a) Dependencies Used
@@ -42,7 +42,7 @@ These are the technologies the project relies on to function:
 
 - **Firebase JavaScript SDK** - provides the prebuilt modules for authentication, Firestore, and app initialization.
 
-
+---
 ## 4. Each Group Member’s Contribution
 
 **Jalani Clemmons** — Affirmation sourcing and website's affirmation display logic  

@@ -5,7 +5,7 @@
 
 For our project, we created a student-focused web application that functions as a task tracker and affirmation hub. The **SHRUG!** app allows users to input tasks and deliverables to build an organized list that supports time management and task completion, while also receiving mood-based affirmation messages to keep them motivated.
 
-
+---
 ## 2. How to Run the Program (Instructions)
 
 **a)** Access the website at:  
